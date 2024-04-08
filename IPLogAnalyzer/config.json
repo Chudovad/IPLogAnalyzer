@@ -1,0 +1,8 @@
+{
+  "--file-log": "log.txt",
+  "--file-output": "result.txt",
+  "--address-start": "192.168.0.1",
+  "--address-mask": "255.255.255.0",
+  "--time-start": "03.04.2024",
+  "--time-end": "04.04.2024"
+}
